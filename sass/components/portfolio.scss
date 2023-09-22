@@ -1,0 +1,47 @@
+.thumb1{
+    width: 370px;
+    height: 294px;
+}
+
+.main-title{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+    margin: 20px 24px 0;
+}
+
+.main-paragraf{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+    width: 322px;
+    height: 30px;
+    color: #757575;
+    margin: 0px 24px 20px;
+}
+
+.main-card{
+    width: 1170px;
+    height: 1290px;
+    margin: 0 auto ;
+    padding: 0px 170px;
+}
+
+.card-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between ;
+    background: #FFFFFF;
+    list-style: none;
+}
+
+.card-list-item{
+    border: 1px solid #EEEEEE;
+}
+
+.card-list-item:nth-child(-n+6){
+    margin-bottom: 30px;
+}

@@ -1,0 +1,5 @@
+@import "./base/common";
+@import "./components/_portfolio-btn.scss";
+@import "./components/portfolio.scss";
+@import "./components/_header.scss";
+@import "./components/_footer.scss";
